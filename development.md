@@ -14,10 +14,10 @@ title:  "IPDK Development"
 
 IPDK's source code is hosted by [GitHub](https://github.com/ipdk-io)
 
-<a id="contributing"></a>
+id="contributing"></a>
 ## Contributing
 
-Everyone is welcome to contribute and Design pre-work and general discussion occurs via one of the
+Everyone is welcome to contribute! Design pre-work and general discussion occurs via one of the
 communications channels described on the [Community](/community/) page.
 
 (Coming Soon) Patch submission is done through Gerrit where patches are voted on by everyone in the community.
