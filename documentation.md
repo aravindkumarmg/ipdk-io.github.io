@@ -2,7 +2,6 @@
 title:  "IPDK Documentation"
 layout: documentation
 ---
-
 <h2>Table of contents</h2>
 <div>
 {% for item in site.data.toc.toc_documentation %}
