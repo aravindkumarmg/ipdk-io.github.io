@@ -24,6 +24,7 @@ For real-time discussions, join us on [Slack](https://join.slack.com/t/ipdkworks
 # Mailing List
 
 The mailing list will be set up at the same time as Gerrit and will be used for announcements of meetings, conferences, and information around related projects. 
+
 <a id="governance"></a>
 # Governance
 
