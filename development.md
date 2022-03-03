@@ -20,6 +20,8 @@ IPDK's source code is hosted by [GitHub](https://github.com/ipdk-io)
 Everyone is welcome to contribut! Design pre-work and general discussion occurs via one of the
 communications channels described on the [Community](/community/) page.
 
+added for demo
+
 (Coming Soon) Patch submission is done through Gerrit where patches are voted on by everyone in the community.
 A patch usually requires a minimum of two +2 votes before it will be merged. +2 votes are reserved for
 the [core maintainers](#core) who can be contacted on the mailing list or in Slack.
